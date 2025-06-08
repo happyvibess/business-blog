@@ -3,7 +3,7 @@ title: "Top Business Trends to Watch in 2024"
 date: 2024-06-08
 categories: [Strategy, Innovation, Technology]
 author: happyvibess
-image: /assets/images/business-trends-2024.jpg
+image: /assets/images/business-trends-2024.svg
 description: "Discover the key business trends shaping the future of industry in 2024. From AI integration to sustainable practices, learn what's driving business success."
 ---
 
