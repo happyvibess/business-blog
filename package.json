@@ -5,16 +5,18 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "export": "next export"
+    "start": "next start"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.21",
     "gray-matter": "^4.0.3",
     "next": "^13.4.7",
+    "postcss": "^8.5.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark": "^14.0.3",
-    "remark-html": "^15.0.2"
+    "remark-html": "^15.0.2",
+    "tailwindcss": "^4.1.8"
   }
 }

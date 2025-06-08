@@ -1,16 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  output: 'export',
   images: {
-    domains: ['images.unsplash.com']
+    unoptimized: true,
   },
   basePath: '/business-blog',
   assetPrefix: '/business-blog/',
-  output: 'export',
-  distDir: 'dist',
-  images: {
-    unoptimized: true
-  }
+  trailingSlash: true,
 }
 
 module.exports = nextConfig
