@@ -1,7 +1,7 @@
 ---
 title: 'Digital Transformation in 2025: Beyond the Basics'
 date: '2025-06-08'
-image: '/images/blog/digital-transformation.jpg'
+image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=1600'
 tags: ['technology', 'digital-transformation', 'innovation']
 ---
 

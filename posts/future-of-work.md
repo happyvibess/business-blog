@@ -1,7 +1,7 @@
 ---
 title: 'The Future of Work: Hybrid Reality'
 date: '2025-06-08'
-image: '/images/blog/future-work.jpg'
+image: 'https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1600'
 tags: ['future-of-work', 'workplace', 'technology']
 ---
 

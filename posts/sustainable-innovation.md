@@ -1,7 +1,7 @@
 ---
 title: 'Sustainable Innovation: Technology with Purpose'
 date: '2025-06-08'
-image: '/images/blog/sustainable-innovation.jpg'
+image: 'https://images.unsplash.com/photo-1497215842964-222b430dc094?auto=format&fit=crop&q=80&w=1600'
 tags: ['sustainability', 'innovation', 'technology']
 ---
 
